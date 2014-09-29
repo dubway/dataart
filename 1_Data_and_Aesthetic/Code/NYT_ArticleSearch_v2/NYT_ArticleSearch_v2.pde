@@ -9,7 +9,7 @@
  
  */
 
-String apiKey = "YOUR_API_KEY_GOES_HERE";
+String apiKey = "9aa29c0b692aca2bbb36e2ff112c2a28:9:69804257";
 String baseURL = "http://api.nytimes.com/svc/search/v2/articlesearch.json?";
 
 void setup() {
