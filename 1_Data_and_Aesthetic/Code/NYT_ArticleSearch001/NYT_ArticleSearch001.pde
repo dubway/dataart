@@ -12,7 +12,11 @@
 String apiKey = "9aa29c0b692aca2bbb36e2ff112c2a28:9:69804257";
 String baseURL = "http://api.nytimes.com/svc/search/v2/articlesearch.json?";
 String word = "epidemic";
+<<<<<<< HEAD
 int fromYear = 1815;
+=======
+int fromYear = 1915;
+>>>>>>> 0a14a50e5247e008cdca3cdb462ec4de935d180a
 int toYear = 2015;
 
 void setup() {
